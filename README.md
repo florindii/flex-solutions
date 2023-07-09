@@ -1,5 +1,4 @@
 # flex-solutions
-# My Awesome Product Viewer
 
 A simple React Native app that allows users to search and filter products by category and brand.
 
