@@ -34,6 +34,5 @@ Before running the app, make sure you have the following installed:
    npm install
 
 4. Start the development server:
-or 
-4.4 npx react-native run-android
+or  npx react-native run-android
 
