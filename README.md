@@ -17,8 +17,8 @@ You can Find screenshots in the assets folder Screenshots.
 Before running the app, make sure you have the following installed:
 
 - Node.js
-- Expo CLI
-- iOS Simulator or Android Emulator (or a physical device for testing)
+- React Native CLI
+- Android Emulator (or a physical device for testing)
 
 ## Installation
 
